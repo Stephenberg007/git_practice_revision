@@ -14,6 +14,7 @@ System.out.println("2nd Line");
 		int b =1010;
 		int i=10;
 		float i =22.45f;
+
 double price = 1000.0;
 boolean b1 = true;
 		boolean isUpdated = false;
