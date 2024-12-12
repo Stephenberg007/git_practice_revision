@@ -10,7 +10,11 @@ System.out.println("1st Line");
 System.out.println("2nd Line");
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
+
+		String a ="AMAN";
+
 		boolean a1 = true ;
+
 		int b =1010;
 		int i=10;
 		float i =22.45f;
