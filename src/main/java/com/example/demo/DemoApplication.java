@@ -17,7 +17,9 @@ System.out.println("2nd Line");
 double price = 1000.0;
 boolean b1 = true;
 		boolean isUpdated = false;
-
+	public boolean (){
+		return true;
+	}
 	int a1 =100;
 	int b1 =251;
 		int c1 =351;
