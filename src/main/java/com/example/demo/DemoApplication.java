@@ -11,7 +11,6 @@ System.out.println("2nd Line");
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 string a = "AMAN MAURYA";
-String c ="kannu Mauruya";
 double price = 1000.0;
 boolean b1 = true;
 		boolean isUpdated = false;
