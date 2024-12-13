@@ -13,6 +13,8 @@ System.out.println("2nd Line");
 
 
 String c = "AMAN MAurya";
+String d = "ANKIT MAURYA";
+String e = "Akhi Verma";
 double price = 1000.0;
 
 boolean b1 = true;
