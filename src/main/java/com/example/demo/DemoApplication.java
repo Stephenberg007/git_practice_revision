@@ -19,9 +19,10 @@ double price = 1000.0;
 
 boolean b1 = true;
 		boolean isUpdated = false;
-	
+
 	int a1 =100;
 	
+
 
 
 	}
